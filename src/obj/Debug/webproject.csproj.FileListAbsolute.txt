@@ -1,0 +1,9 @@
+C:\Users\poval\source\repos\webproject\bin\Debug\webproject.exe.config
+C:\Users\poval\source\repos\webproject\bin\Debug\webproject.exe
+C:\Users\poval\source\repos\webproject\bin\Debug\webproject.pdb
+C:\Users\poval\source\repos\webproject\obj\Debug\webproject.csprojAssemblyReference.cache
+C:\Users\poval\source\repos\webproject\obj\Debug\webproject.Form1.resources
+C:\Users\poval\source\repos\webproject\obj\Debug\webproject.Properties.Resources.resources
+C:\Users\poval\source\repos\webproject\obj\Debug\webproject.csproj.GenerateResource.cache
+C:\Users\poval\source\repos\webproject\obj\Debug\webproject.exe
+C:\Users\poval\source\repos\webproject\obj\Debug\webproject.pdb
